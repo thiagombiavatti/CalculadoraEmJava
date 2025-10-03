@@ -22,7 +22,7 @@ public class App {
         lblNome.setBounds(10,20,100,30);
         form.add(lblNome);
 
-        //Alterando a fonte do JLabel************************
+        //Alterando a fonte do JLabel**********************
         lblNome.setFont(fontArialBold16);
 
         JLabel lblCpf = new JLabel("CPF:");
